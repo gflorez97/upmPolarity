@@ -1,9 +1,6 @@
 
 # coding: utf-8
 
-# In[55]:
-
-
 import sklearn
 import numpy as np
 from joblib import dump, load
@@ -646,4 +643,3 @@ class upmPolarity:
 
             else:
                 pass
-
